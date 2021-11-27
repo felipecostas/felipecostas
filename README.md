@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left">
-<a href=https://www.linkedin.com/in/felipe-costa-b3605b20b "target="_blank"><img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="css3" width="40" height="40"/> </a></a>
+<a href=https://www.linkedin.com/in/felipe-costa-b3605b20b target="_blank"><img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="css3" width="40" height="40"/> </a></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
